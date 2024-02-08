@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Registration Form</title>
+</head>
+
+<body>
+    <form method="get" >
+        <table align="center" cellspacing="20px" cellpadding="10px" color="red" bgcolor="silver">
+            <caption>
+                <h2>Registration Form</h2>
+            </caption>
+            <tr>
+                <td>
+                    <label for="name1"> First Name</label> <br><input type="text" id="name1" name="first name">
+                </td>
+                <td> <label for="name2"> Last Name</label><br><input type="text" id="name2" name="last name"></td>
+            </tr>
+            <tr>
+                <td><label>Birthday</label><br><input type="date"></td>
+                <td><label>Gender</label><br>
+                    <input type="radio" id="male1" name="Gender" value="Male">
+                    <label for="male1"> Male</label>
+                    <input type="radio" id="female1" name="Gender" value="Female">
+                    <label for="female1">Female</label>
+                </td>
+            </tr>
+            <tr>
+                <td><label for="email address">Email</label><br>
+                    <input type="email" id="email address" name="email">
+                </td>
+                <td><label for="phonenumber">Phone Number</label><br>
+                    <input type="number" id="phonenumber" name="number">
+                </td>
+            </tr>
+            <tr>
+                <td><label>Subject</label><br>
+                    <select name="choose option" id="option">
+                        <option value="" selected disabled hidden> Choose Option</option>
+                        <option value="option1">option1</option>
+                        <option value="option2">option2</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="Submit"></td>
+            </tr>
+        </table>
+    </form>
+</body>
+
+</html>
