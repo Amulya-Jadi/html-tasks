@@ -1,0 +1,180 @@
+.nav-image{
+    height:50px;
+    width:60px;
+    border-radius: 6px;
+}
+#navbarNav1{
+    color:black;
+}
+#navbarNav2{
+    color:black;
+}
+#navbarNav3{
+    color:black;
+}
+#navbarNav4{
+    color:black;
+}
+.bg-container{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png');
+    height:100vh;
+    background-size: cover;
+}
+.main-heading{
+    font-family: roboto;
+    margin:10px;
+    padding:10px;
+    color:white;
+}
+.caption{
+    font-size: 20px;
+    font-family: roboto;
+    margin:10px;
+    padding:10px;
+    color:white;
+}
+.button-viewmore{
+    height:40px;
+    width:120px;
+    color:white;
+    background-color: rgb(192, 156, 13);
+    border-width: 0px;
+    border-radius: 8px;
+}
+.button-ordernow{
+    margin-left: 10px;
+    height:40px;
+    width:120px;
+background-color: transparent;
+border-width:1px;
+border-color: rgb(192, 156, 13);
+border-radius: 8px;
+color:rgb(192, 156, 13);
+}
+
+.container-section {
+    background-color: #f6f6f7;;
+
+    font-family: roboto;
+}
+
+.wcu-section-description {
+    font-weight: normal;
+}
+
+.card-iamge {
+    width: 87px;
+    height: 90px;
+}
+
+.wcu-card {
+    background-color: white;
+    border-radius: 8px;
+}
+
+.wcu-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.offers {
+    color: rgb(15, 98, 147);
+    background-color: yellow;
+}
+
+
+.explore-menu-container {
+    background-color: white;
+}
+.card-image{
+    border-radius: 10px;
+}
+
+.menu-section {
+    border-width: 2px;
+    border-color: beige;
+    border-radius: 16px;
+}
+
+.item-name {
+    font-size: 30px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+}
+
+.healthy-food-section-img2 {
+    height: 300px;
+}
+
+.button {
+    color: white;
+    background-color: #d0b200;
+    height: 40px;
+    width: 120px;
+    border-radius: 8px;
+    font-family: roboto;
+}
+
+.payment-card-img {
+    margin: 10px;
+    padding: 10px;
+    height: 70px;
+    width: 100px;
+}
+.gift-box-section {
+    background-image:radial-gradient(white,rgb(169, 169, 220));
+}
+
+.gift-box-heading {
+    font-family: roboto;
+    font-weight: bold;
+}
+
+.gift-card {
+    height: 400px;
+    width: 500px;
+    border-radius: 8px;
+}
+.gift-button{
+    background-color:#d0b200;
+    color:white;
+    border-radius:8px;
+    height:50px;
+    width:140px;
+    padding:10px;
+}
+.follow-us-section {
+    background-color: white;
+  }
+  .follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+  }
+  .icon {
+    color: #d0b200;
+    font-size: 35px;
+  }
+  .modal-title{
+    font-weight: bold;
+    color:#d0b200;
+  }
