@@ -2,12 +2,11 @@
 
 public class program6 {
 
-public static int doAvg(int a,int b ,int c)
+public static void doAvg(int a,int b ,int c)
 {
       int result;
     result=(a+b+c)/3;
-     System.out.println("The Average of three numbers : "+result);
-      return 0 ; 
+     System.out.println("The Average of three numbers : "+result); 
 }
     public static void main(String[] args) {
         

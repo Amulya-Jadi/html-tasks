@@ -1,12 +1,11 @@
 //Using Method in Java
 
 class Main {
-    public static int doSquare(int a,int b)
+    public static void doSquare(int a,int b)
     {
           int result;
         result=(a*a)+(b*b)+(2*a*b);
          System.out.println("Square of two numbers is : "+result);
-          return 0 ; 
     }
     
     
