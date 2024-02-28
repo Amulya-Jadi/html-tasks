@@ -1,7 +1,7 @@
 //(a+b)2=a2+b2+2ab program using Function in C
 
 #include <stdio.h>
-int doMathFormula(int a, int b)
+void doMathFormula(int a, int b)
 {
   int result;
   result = (a * a) + (b * b) + (2 * a * b);
