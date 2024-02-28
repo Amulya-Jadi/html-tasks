@@ -13,5 +13,5 @@ int main()
   doMathFormula(10, 12);
   doMathFormula(333, 56);
 
-  return 0;
+  return 1;
 }
