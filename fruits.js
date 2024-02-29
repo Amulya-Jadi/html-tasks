@@ -7,6 +7,10 @@ fruits.push('pineapple')
 fruits.push('banana')
 console.log(fruits)
 
+/*Remove an element from beginning
+Remove an element from beginning
+Remove an element from ending
+Remove an element from ending*/
 
 fruits.shift()
 console.log(fruits)
